@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+
+Sitemap: https://ВАШ_ЛОГИН.github.io/my-site/sitemap.xml
